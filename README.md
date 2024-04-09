@@ -1,4 +1,4 @@
-## Zoom Clone - Video Conferencing Application (MERN Stack)
+## VisionLink - Video Conferencing Application (MERN Stack)
 
 **Overview:**
 

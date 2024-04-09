@@ -1,11 +1,11 @@
 {
-  "name": "clone",
+  "name": "VisionLink",
   "version": "1.0.0",
-  "description": "eerfdv",
-  "main": "server.js",
+  "description": "video and chat calling",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
